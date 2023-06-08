@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "A long time ago in a galaxy far, far away..." ; sleep 2 ; echo "Episode IV" ; sleep 2 ; echo "A NEW HOPE" ; sleep 2 ; echo "It is a period of civil war." ; sleep 2
