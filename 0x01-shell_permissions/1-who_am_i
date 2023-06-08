@@ -1,2 +1,2 @@
-echo "Effective user"
+#!/bin/bash
 whoami
